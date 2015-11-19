@@ -33,4 +33,18 @@
         p {
             font-size: 16px;
             line-height: .75em;
+            padding: 2px;
+        }
+        ul {
+            font-size: 14px;
+            line-height: .75em;
+            padding: 2px;
+        }
+        ol {
+            font-size: 15px;
+            line-heigt: .75em;
+            padding: 2px;
+        }
+        li {
+
         }
