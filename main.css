@@ -30,21 +30,25 @@
             border-bottom: 1px solid #CCCCCC;
             padding-bottom: 3px;
         }
+        
         p {
             font-size: 16px;
             line-height: .75em;
             padding: 2px;
         }
+        
         ul {
             font-size: 14px;
             line-height: .75em;
             padding: 2px;
         }
+        
         ol {
             font-size: 15px;
             line-heigt: .75em;
             padding: 2px;
         }
+        
         li {
             font-size: 15px;
             padding: 4px;
