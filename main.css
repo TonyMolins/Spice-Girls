@@ -49,4 +49,5 @@
         .push {
             height: 4em;
             display: block;
+            padding: 5px;
         }
