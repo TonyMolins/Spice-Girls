@@ -7,6 +7,8 @@
         body {
             padding: 20px 20px 20px 20px;
             min-height: 200px;
+            background-image: url("http://images.fanpop.com/images/image_uploads/Spice-Girls-spice-girls-231522_1024_768.jpg");
+            background-repeat: no-repeat;
         }
         
         h1 {
